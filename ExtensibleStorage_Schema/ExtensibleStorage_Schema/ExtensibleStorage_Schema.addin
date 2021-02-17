@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>ExtensibleStorage_Schema.dll</Assembly>
+    <ClientId>0D274AE9-B259-4FEF-A1F3-522A82B5C30F</ClientId>
+    <FullClassName>ExtensibleStorage_Schema.MainClass</FullClassName>
+    <Text>Create Schema Field Value</Text>
+    <Description>Sample for creating Schema field value </Description>
+    <VendorId>TwentyTwo</VendorId>
+    <VendorDescription>TwentyTwo, https://twentytwo.space</VendorDescription>
+  </AddIn>
+
+  <AddIn Type="Command">
+    <Assembly>ExtensibleStorage_Schema.dll</Assembly>
+    <ClientId>F2DCDFB1-B1E4-4315-95F1-E84EFC2CB96C</ClientId>
+    <FullClassName>ExtensibleStorage_Schema.GetSchemaClass</FullClassName>
+    <Text>Get Schema Field Value</Text>
+    <Description>Sample for getting existing Schema field value </Description>
+    <VendorId>TwentyTwo</VendorId>
+    <VendorDescription>TwentyTwo, https://twentytwo.space</VendorDescription>
+  </AddIn>
+
+</RevitAddIns>

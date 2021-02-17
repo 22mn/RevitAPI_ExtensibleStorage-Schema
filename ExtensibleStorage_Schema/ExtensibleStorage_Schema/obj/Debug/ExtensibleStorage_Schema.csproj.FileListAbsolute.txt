@@ -1,0 +1,6 @@
+D:\SANDBAG\TwentyTwo\Revit API Series\ExtensibleStorage_Schema\ExtensibleStorage_Schema\bin\Debug\ExtensibleStorage_Schema.dll
+D:\SANDBAG\TwentyTwo\Revit API Series\ExtensibleStorage_Schema\ExtensibleStorage_Schema\bin\Debug\ExtensibleStorage_Schema.pdb
+D:\SANDBAG\TwentyTwo\Revit API Series\ExtensibleStorage_Schema\ExtensibleStorage_Schema\obj\Debug\ExtensibleStorage_Schema.csprojAssemblyReference.cache
+D:\SANDBAG\TwentyTwo\Revit API Series\ExtensibleStorage_Schema\ExtensibleStorage_Schema\obj\Debug\ExtensibleStorage_Schema.csproj.CoreCompileInputs.cache
+D:\SANDBAG\TwentyTwo\Revit API Series\ExtensibleStorage_Schema\ExtensibleStorage_Schema\obj\Debug\ExtensibleStorage_Schema.dll
+D:\SANDBAG\TwentyTwo\Revit API Series\ExtensibleStorage_Schema\ExtensibleStorage_Schema\obj\Debug\ExtensibleStorage_Schema.pdb
